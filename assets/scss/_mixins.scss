@@ -12,7 +12,9 @@
 
 @mixin vt-center {
     position: absolute;
-    top: 50%;
+    top: 40%;
+    font-weight: 900;
+    font-size: 12px;
     transform: translateY(-50%);
 }
 

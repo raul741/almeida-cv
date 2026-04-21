@@ -1,0 +1,23 @@
+[profile]
+other = "¿Quién soy yo?"
+
+[experience]
+other = "Experiencia"
+
+[education]
+other = "Formación"
+
+[references]
+other = "Referencias"
+
+[skills]
+other = "Competencias"
+
+[languages]
+other = "Idiomas"
+
+[diplomas]
+other = "Certificaciones"
+
+[interests]
+other = "Intereses"

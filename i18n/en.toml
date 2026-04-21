@@ -1,5 +1,5 @@
 [profile]
-other = "Profile"
+other = "Who am I?"
 
 [experience]
 other = "Experience"
@@ -17,7 +17,7 @@ other = "Skills"
 other = "Languages"
 
 [diplomas]
-other = "Diplomas"
+other = "Certifications"
 
 [interests]
 other = "Interests"
